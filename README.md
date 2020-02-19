@@ -1,2 +1,2 @@
 # Git-Demo
-A demonstration of GitHub and Git for textron noobies.
+A demonstration of GitHub and Git for textron noobies. Josh is awesome
